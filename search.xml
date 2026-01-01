@@ -141,7 +141,7 @@
       <link href="/2025/10/12/FakeWrfl-webui/"/>
       <url>/2025/10/12/FakeWrfl-webui/</url>
       
-        <content type="html"><![CDATA[<h1 id="FakeWrfl-webui"><a href="#FakeWrfl-webui" class="headerlink" title="FakeWrfl-webui"></a>FakeWrfl-webui</h1><p>基于某高校的请假条样式，制作而成的快捷请假条生成程序。</p><p>链接：<a href="https://github.com/c-Mitunlny/FakeWrfl">https://github.com/c-Mitunlny/FakeWrfl</a></p><hr><h2 id="在线运行"><a href="#在线运行" class="headerlink" title="在线运行"></a>在线运行</h2><p><div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">        <iframe         src="http://120.48.101.60:3171/"         width="375px"        height="667px"        style="border: none; border-radius: 20px;"        scrolling="auto">    </iframe>    </div></p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>一个有趣的请假条生成程序，可以供学生生成该高校统一样式的请假条。</p><p>免责声明：本项目仅供娱乐和编程性质的学习，学生使用本项目，即代表其同意造成的一切后果由其本人承担。</p><h3 id="更新说明：-将原来的exe程序改为web应用，更加便捷和轻量化"><a href="#更新说明：-将原来的exe程序改为web应用，更加便捷和轻量化" class="headerlink" title="更新说明： 将原来的exe程序改为web应用，更加便捷和轻量化"></a>更新说明： 将原来的exe程序改为web应用，更加便捷和轻量化</h3><p><strong>使用环境</strong>：Python3.12</p><p><strong>依赖：</strong>Flask</p><p><strong>使用方法</strong>：运行app.py</p><p><strong>注意事项</strong>：切勿改动或删除其它文件，否则可能造成程序无法使用</p><h2 id="核心原理"><a href="#核心原理" class="headerlink" title="核心原理"></a>核心原理</h2><p>抓取了正常请假成功的前端页面，通过使用python代码来替换前端页面中的各项数据。</p><p><img src="https://czxh.oss-cn-beijing.aliyuncs.com/pic/202510131543113.png" alt="image-20251013154310056"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="FakeWrfl-webui"><a href="#FakeWrfl-webui" class="headerlink" title="FakeWrfl-webui"></a>FakeWrfl-webui</h1><p>基于某高校的请假条样式，制作而成的快捷请假条生成程序。</p><p>链接：<a href="https://github.com/c-Mitunlny/FakeWrfl">https://github.com/c-Mitunlny/FakeWrfl</a></p><hr><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>一个有趣的请假条生成程序，可以供学生生成该高校统一样式的请假条。</p><p>免责声明：本项目仅供娱乐和编程性质的学习，学生使用本项目，即代表其同意造成的一切后果由其本人承担。</p><h3 id="更新说明：-将原来的exe程序改为web应用，更加便捷和轻量化"><a href="#更新说明：-将原来的exe程序改为web应用，更加便捷和轻量化" class="headerlink" title="更新说明： 将原来的exe程序改为web应用，更加便捷和轻量化"></a>更新说明： 将原来的exe程序改为web应用，更加便捷和轻量化</h3><p><strong>使用环境</strong>：Python3.12</p><p><strong>依赖：</strong>Flask</p><p><strong>使用方法</strong>：运行app.py</p><p><strong>注意事项</strong>：切勿改动或删除其它文件，否则可能造成程序无法使用</p><h2 id="核心原理"><a href="#核心原理" class="headerlink" title="核心原理"></a>核心原理</h2><p>抓取了正常请假成功的前端页面，通过使用python代码来替换前端页面中的各项数据。</p><p><img src="https://czxh.oss-cn-beijing.aliyuncs.com/pic/202510131543113.png" alt="image-20251013154310056"></p>]]></content>
       
       
       <categories>
@@ -178,9 +178,9 @@
       
         <tags>
             
-            <tag> web </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> web </tag>
             
         </tags>
       
